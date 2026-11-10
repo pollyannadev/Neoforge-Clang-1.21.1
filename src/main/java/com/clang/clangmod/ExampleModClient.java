@@ -1,4 +1,4 @@
-package com.example.clangmod;
+package com.clang.clangmod;
 
 import net.minecraft.client.Minecraft;
 import net.neoforged.api.distmarker.Dist;
